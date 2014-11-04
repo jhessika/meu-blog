@@ -1,3 +1,4 @@
+
 li {
   font-size:20px;
 }
@@ -30,4 +31,7 @@ body{
 .imagens-1 img{
   width: 100%;
 }
-
+.centralizar-imagem {
+  display: block;
+  margin:0 auto;
+}
